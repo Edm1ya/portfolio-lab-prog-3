@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Web Personal",
+        "link": "https://github.com/Eduardo-sanchez-m/portfolio-lab-prog"
+    },
+    {
+        "name": "102 Etiquetas HTML",
+        "link": "https://github.com/Eduardo-sanchez-m/102-etiquetas-html"
+    },
+    {
+        "name": "Menu CSS",
+        "link": "https://github.com/Eduardo-sanchez-m/menu-css"
+    },
+    {
+        "name": "Validador de Cédula",
+        "link": "https://github.com/Eduardo-sanchez-m/validador-cedula"
+    },
+    {
+        "name": "Menu Dinamico JSON",
+        "link": "https://github.com/Eduardo-sanchez-m/menu-dinamico-json"
+    },
+    {
+        "name": "Formulario con páginas múltiples",
+        "link": "https://github.com/Eduardo-sanchez-m/formulario-paginas-multiples"
+    },
+    {
+        "name": "Formulario con contacto con código QR",
+        "link": "https://github.com/Eduardo-sanchez-m/formulario-contacto-qr"
+    },
+    {
+        "name": "Formulario con librería de gráficos",
+        "link": "https://github.com/Eduardo-sanchez-m/formulario-libreria-graficas"
+    },
+    {
+        "name": "Ejemplo de XML",
+        "link": "https://github.com/Eduardo-sanchez-m/ejemplo-xml"
+    },
+    {
+        "name": "Ejemplo de JSON",
+        "link": "https://github.com/Eduardo-sanchez-m/ejemplo-json"
+    },
+    {
+        "name": "Ejemplo de AJAX",
+        "link": "https://github.com/Eduardo-sanchez-m/ejemplo-ajax"
+    },
+    {
+        "name": "Formulario con Acceso a BD",
+        "link": "https://github.com/Eduardo-sanchez-m/formulario-acceso-bd"
+    },
+    {
+        "name": "Ejemplo de MVC",
+        "link": "https://github.com/Eduardo-sanchez-m/ejemplo-mvc"
+    }
+]   
